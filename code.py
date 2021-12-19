@@ -16,7 +16,6 @@ GREEN = (255,0,0)
 
 pauseDuration = 2
 
-
 while True:
     singleNeo.fill(RED)
     singleNeo.show()
